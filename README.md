@@ -1,1 +1,7 @@
-# devops-project1
+# DevOps Projects
+
+List of beginner friendly DevOps projects.
+
+- Devops-project1: Build an apache web server Docker image and make a container.
+  
+  
