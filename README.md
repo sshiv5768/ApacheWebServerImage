@@ -1,4 +1,4 @@
-# DevOps Projects
+# ApacheWebServerImage
 
 List of beginner friendly DevOps projects.
 
